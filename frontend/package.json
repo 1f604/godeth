@@ -1,0 +1,19 @@
+{
+  "name": "godeth",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no tests installed\" && exit 1",
+    "build": "tsc",
+    "start": "node test.js"
+  },
+  "description": "godeth",
+  "main": "test.js",
+  "keywords": [
+    "woc"
+  ],
+  "author": "1f604",
+  "license": "GPL 3.0",
+  "devDependencies": {
+    "typescript": "^3.1.3"
+  }
+}
